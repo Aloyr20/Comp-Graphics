@@ -1,3 +1,3 @@
-# Comp-Graphics In Class Activity 1
+# Computer-Graphics In Class Activity 1
 
 
